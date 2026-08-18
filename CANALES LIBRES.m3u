@@ -19,70 +19,70 @@ https://v2.tustreaming.cl/maulevisiontv/index.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1, 10 - CANAL CREO TV
 https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=14756568
-#EXTINF:-1, 11 - CANAL UNO COLOMBIA
-https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/publish/media_1000.m3u8?aid=5a1dafd63910b04010338038&pid=JgrWG4W6t2zjUOX1bDj54GA1aTEEY83N&sid=wx3Ug61fElGUIodk1k03oXcNAwpquI67&uid=GrYm1DI2zYx3CvHL9xsDmmm1eZkV4g6b&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1779043177281&ot=HREyZmPJE-qOLivfLE_LVQ&proto=https&pz=us
-#EXTINF:-1, 12 - CANAL CUCUTA RETRO
-https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+#EXTINF:-1, 11 - CANAL ALEGRIA TV
+https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1, 12 - CANAL AMITEL TV
+https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1, 13 - CANAL GLOBAL TV
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_360p/chunks.m3u8
-#EXTINF:-1, 14 - CANAL FMH KIDS
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
-#EXTINF:-1, 15 - CANAL TV CHINCHA MAS
-https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
-#EXTINF:-1, 16 - HUACHO TV
-https://live-evg18.tv360.bitel.com.pe/bitel/huacho/chunks.m3u8
-#EXTINF:-1, 17 - COSITEL TV
-https://live-evg18.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+#EXTINF:-1, 14 - CANAL ATV+ BOLIVIA
+https://ares.disfrutaenlared.com:1936/activatv/activatv/chunklist_w1629312539.m3u8
+#EXTINF:-1, 15 - CANAL DELTA
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+#EXTINF:-1, 16 - FAP TV
+https://edge.enhdtv.com/faptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 17 - A&E
+https://streamer.metronethn.com/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 18 - DUNAS TV
 https://live-evg18.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
 #EXTINF:-1, 19 - ECO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/chunks.m3u8
 #EXTINF:-1, 20 - COSMOS TV
 https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
-#EXTINF:-1, 21 - GTV TV
-https://live-evg18.tv360.bitel.com.pe/bitel/gtvpiscoSRT/chunks.m3u8
-#EXTINF:-1, 22 - VIGIL TV
-https://live-evg11.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
-#EXTINF:-1, 23 - CVN TV
-https://live-evg18.tv360.bitel.com.pe/bitel/cvn/chunks.m3u8
-#EXTINF:-1, 24 - HUANTA TV
-https://live-evg18.tv360.bitel.com.pe/bitel/huantatv/chunks.m3u8
-#EXTINF:-1, 25 - HOY PERU TV TV
-https://live-evg18.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
-#EXTINF:-1, 26 - CNC TV
-https://live-evg18.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
-#EXTINF:-1, 27 - XTV TV
-https://live-evg11.tv360.bitel.com.pe/bitel/xtvplus/chunks.m3u8
-#EXTINF:-1, 28 - CTC CUSCO TV
-https://live-evg7.tv360.bitel.com.pe/bitel/ctc/chunks.m3u8
-#EXTINF:-1, 29 - TEVESUR TV
-https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/chunks.m3u8
-#EXTINF:-1, 30 - WAYRA TV
-https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
-#EXTINF:-1, 31 - ANDES TV
-https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/chunks.m3u8
-#EXTINF:-1, 32 - TELECENTRO TV
-https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/chunks.m3u8
-#EXTINF:-1, 33 - SM CANAL 7 TV
-https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/chunks.m3u8
-#EXTINF:-1, 34 - SELVA TV
-https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/chunks.m3u8
-#EXTINF:-1, 35 - SUPER CANAL TV
-https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/chunks.m3u8
-#EXTINF:-1, 36 - TV MAR TV
-https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
-#EXTINF:-1, 37 - DUB TV
-https://live-evg18.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
-#EXTINF:-1, 38 - VIA TARAPOTO TV
-https://live-evg11.tv360.bitel.com.pe/bitel/viatvSRT/chunks.m3u8
-#EXTINF:-1, 39 - TARAPOTO TV
-https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
-#EXTINF:-1, 40 - URANIO TV
-https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
-#EXTINF:-1, 41 - UCAYALI TV
-https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/chunks.m3u8
-#EXTINF:-1, 42 - TURBOMIX TV
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1, 21 - AMAGA TV
+https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/chunks.m3u8
+#EXTINF:-1, 22 - ANC TV
+https://live.amelbatv.co:81/anctvlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 23 - AUPUR TV
+https://canal.aupurtv.co/live/stream/main_stream.m3u8
+#EXTINF:-1, 24 - BUM TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1, 25 - ALPAVISION TV
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8?hls_ctx=rd2q12e3
+#EXTINF:-1, 26 - CANAL 8 TV
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1, 27 - CANAL CALIMA TV
+https://movil.ejeserver.com/live/calimatv.m3u8
+#EXTINF:-1, 28 - FIESTA TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1, 29 - MAS NORTE TV
+https://live.arnoproducciones.com/hls/norte.m3u8
+#EXTINF:-1, 30 - CANAL MOMENTO 24
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+#EXTINF:-1, 31 - NICK TV
+https://streamer.metronethn.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 32 - TELEMOCOA TV
+https://live.amelbatv.co:81/telemocoalive/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 33 - BEST CLASICOS TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:-1, 34 - CANAL KMK TV
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1, 35 - CANAL 10 COSTARICA TV
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+#EXTINF:-1, 36 - TV COSTARICA TV
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1, 37 - CANAL CRISTOVISION 31
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
+#EXTINF:-1, 38 - CANAL GAM TV
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 39 - GARAVITO TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w389519232.m3u8
+#EXTINF:-1, 40 - TELE MAS TV
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1, 41 - CAPRICHO TV TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1, 42 - CURIQUINGUE TV
+https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1, 43 - CANAL RED + TV
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/03.m3u8
 #EXTINF:-1, 44 - CANAL VIDA AL MAXIMO
@@ -381,4 +381,50 @@ https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 https://eu1.servers10.com:8081/8072/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 191 -CANAL UMC
 https://streaming5.globalhostla.com/rtplive/unamirad/chunklist_w971978172.m3u8
+#EXTINF:-1, 191 -CANAL FM PREMIER KIDS
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1, 192 -CANAL LORETO TV 3
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+#EXTINF:-1, 193 -CANAL OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1, 194 -CANAL RED TVE 
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1, 195 -CANAL TV CISNE
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1, 196 -CANAL TV COLOR
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1, 197 -CANAL BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1, 198 -CANAL MAXIVISION TV
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/chunklist_w1717213150.m3u8
+#EXTINF:-1, 199 -CANAL NIM TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1, 200 -CANAL SIL HD TV
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/chunks.m3u8
+#EXTINF:-1, 201 -CANAL STAR CHANNEL
+https://streamer.metronethn.com/StarChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 202 -CANAL TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1, 203 -CANAL TV FLORENCIA
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1, 204 -CANAL TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1, 205 -CANAL MTV LATINO
+https://streamer.metronethn.com/MTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 206 -CANAL NICK JR
+https://streamer.metronethn.com/NickJr/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 207 -CANAL POPCORN CENTRAL
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_480.m3u8
+#EXTINF:-1, 208 -CANAL + TV
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/chunks.m3u8
+#EXTINF:-1, 209 -CANAL DELTA TV
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+#EXTINF:-1, 210 -CANAL DOBLE C
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8
+#EXTINF:-1, 211 -CANAL TELELIMA
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
+#EXTINF:-1, 212 -CANAL TV+ CHINCHA
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+
 
